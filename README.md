@@ -13,3 +13,9 @@ Beginner to Advanced Level Data Science and Machine Learning Tasks in Python.
 > **Problem**: Classify Employees as Senior or Junior based on Age, Salary and Department <br>
 > **Model**: Naive Bayes <br>
 > **IDE** Jupyter Notebook
+
+
+### 3) [Random Dice Staris Simulation Distribution Analysis]()
+
+> **Problem**: What are the odds that you'll reach 60 steps high using a Random Dice Simulation and Distribution <br>
+> **IDE** Jupyter Notebook
