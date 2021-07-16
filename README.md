@@ -15,7 +15,7 @@ Beginner to Advanced Level Data Science and Machine Learning Tasks in Python.
 > **IDE** Jupyter Notebook
 
 
-### 3) [Random Dice Staris Simulation Distribution Analysis]()
+### 3) [Random Dice Staris Simulation Distribution Analysis](https://github.com/yousaf530/Data-Science-and-ML-Tasks/tree/master/Random%20Dice%20Stairs%20Simulator)
 
 > **Problem**: What are the odds that you'll reach 60 steps high using a Random Dice Simulation and Distribution <br>
 > **IDE** Jupyter Notebook
