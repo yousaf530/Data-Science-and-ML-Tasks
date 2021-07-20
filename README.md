@@ -20,9 +20,9 @@ Beginner to Advanced Level Data Science and Machine Learning Tasks in Python.
 > **Problem**: What are the odds that you'll reach 60 steps high using a Random Dice Simulation and Distribution <br>
 > **IDE** Jupyter Notebook
 
-### 4) [ANNs vs CNNs for Image Classification]
+### 4) [ANNs vs CNNs for Image Classification](https://github.com/yousaf530/Data-Science-and-ML-Tasks/tree/master/ANNs%20vs%20CNNs%20for%20Image%20Classification)
 
 > **Problem**: Built, trained and tested Simple ANN vs CNN for Classification of Images <br>
-> **IDE** Jupyter Notebook
-> **Data**: <a href='https://keras.io/api/datasets/cifar10/'> CIFAR10 small images classification dataset </a> <br>
+> **IDE** Jupyter Notebook <br>
+> **Data**: <a href='https://keras.io/api/datasets/cifar10/'> CIFAR10 small images classification Dataset </a> <br>
 
